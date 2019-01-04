@@ -15,6 +15,7 @@ features:
 - Private Parking
 - Gym
 - Tennis
+- Mini Golf
 finca: false
 fireplace: false
 frequency: sale
@@ -64,7 +65,7 @@ images:
 kdate: 2019-01-03 18:16:22.344202
 kitchen: open
 kref: testprop
-lastedited: 2019-01-03 18:19:45.121697
+lastedited: 2019-01-04 11:44:58.461015
 layout: de-prop
 leasehold: false
 living: 65
@@ -83,7 +84,7 @@ ptype: Apartment
 ref: testprop
 rental: false
 salestage: 0
-shas: null
+shas: '{"de": "002c6d90f9d8be85ac8ce2fd031bcd572e58d2e2", "en": "e628b33121aa26bd563b170a561eff32b688332f"}'
 slug: de/2-Wohnung-zu-verkaufen-Playa-Flamenca/
 solarium: false
 topsix: false
