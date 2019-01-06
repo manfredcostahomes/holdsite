@@ -8,7 +8,7 @@ beach: false
 beds: 2
 categories:
 - Apartment
-- 100000
+- €700001-€800000
 - Orihuela Costa
 - Villamartin
 created: 2019-01-05 15:07:31.492542
@@ -69,7 +69,7 @@ images:
 kdate: 2019-01-05 15:07:31.492576
 kitchen: open
 kref: testprop
-lastedited: 2019-01-06 12:47:07.534100
+lastedited: 2019-01-06 14:37:15.970411
 layout: de-prop
 leasehold: false
 living: 72
@@ -82,13 +82,13 @@ penthouse: false
 pid: 2
 plot: 102
 pool: community
-price: 100000
+price: 740999
 province: Alicante
 ptype: Apartment
 ref: testprop
 rental: false
 salestage: 0
-shas: '{"en": "60cec5aa987b0ae21c05f29b0780e08e67124096", "de": "eb55439e1ff42757fc1273ec6d84822c4d4c0ad3"}'
+shas: '{"en": "f384584f477e36dc94b0fe1ea1ee8fd0e3150058", "de": "0bb30246ea8c7f45738a82788026bf3b9e45f208"}'
 slug: de/2-Wohnung-zu-verkaufen-Villamartin/
 solarium: false
 topsix: false
