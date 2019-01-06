@@ -6,6 +6,11 @@ balconies: '1'
 baths: 1
 beach: false
 beds: 2
+categories:
+- Apartment
+- 100000
+- Orihuela Costa
+- Villamartin
 created: 2019-01-05 15:07:31.492542
 currency: null
 description: A top floor bungalow apartment in Villamartin close to the golf course
@@ -64,7 +69,7 @@ images:
 kdate: 2019-01-05 15:07:31.492576
 kitchen: open
 kref: testprop
-lastedited: 2019-01-06 12:15:45.094691
+lastedited: 2019-01-06 12:47:07.534100
 layout: en-prop
 leasehold: false
 living: 72
@@ -83,7 +88,7 @@ ptype: Apartment
 ref: testprop
 rental: false
 salestage: 0
-shas: '{"en": "nosha", "de": "nosha"}'
+shas: '{"en": "60cec5aa987b0ae21c05f29b0780e08e67124096", "de": "eb55439e1ff42757fc1273ec6d84822c4d4c0ad3"}'
 slug: en/2-Apartment-for-sale-Villamartin/
 solarium: false
 topsix: false
