@@ -69,14 +69,14 @@ images:
 kdate: 2019-01-05 15:07:31.492576
 kitchen: open
 kref: testprop
-lastedited: 2019-01-06 14:37:15.970411
+lastedited: 2019-01-06 14:42:09.547291
 layout: en-prop
 leasehold: false
 living: 72
 location: Villamartin
 luxury: false
 moredetails: ''
-offplan: false
+offplan: true
 originalprice: 100000
 penthouse: false
 pid: 2
@@ -88,7 +88,7 @@ ptype: Apartment
 ref: testprop
 rental: false
 salestage: 0
-shas: '{"en": "f384584f477e36dc94b0fe1ea1ee8fd0e3150058", "de": "0bb30246ea8c7f45738a82788026bf3b9e45f208"}'
+shas: '{"en": "208dfa7926b94c8040e98bd1155b7632d4a64f23", "de": "d60f142892ddf59e89b2c33c10b92a2bd916e89a"}'
 slug: en/2-Apartment-for-sale-Villamartin/
 solarium: false
 topsix: false
