@@ -8,7 +8,7 @@ beach: true
 beds: 3
 categories:
 - Apartment
-- €300001-€400000
+- €200001-€300000
 - Orihuela Costa
 - Playa Flamenca
 created: 2019-01-05 09:14:38.330924
@@ -70,7 +70,7 @@ images:
 kdate: 2019-01-05 09:14:38.330937
 kitchen: open
 kref: testwm
-lastedited: 2019-01-06 14:39:32.496655
+lastedited: 2019-01-07 07:39:09.995123
 layout: de-prop
 leasehold: false
 living: 90
@@ -83,13 +83,13 @@ penthouse: false
 pid: 1
 plot: 90
 pool: community
-price: 320000
+price: 220000
 province: Alicante
 ptype: Apartment
 ref: testwm
 rental: false
 salestage: 0
-shas: '{"en": "", "de": ""}'
+shas: '{"en": "f17f54b556e094863ff742915e2496ccff452ef8", "de": "0903df131f2ad61f852d7b001572d35365376611"}'
 slug: de/1-Wohnung-zu-verkaufen-Playa-Flamenca/
 solarium: false
 topsix: false
