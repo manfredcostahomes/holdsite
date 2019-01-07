@@ -1,7 +1,7 @@
 baseurl = "/"
 title = "Manfred Costa Homes"
 
-taxonomies:
-  category: categories
-  property: properties
-  tag: tags
+[taxonomies]
+  category = "categories"
+  property = "properties"
+  tag = "tags"
