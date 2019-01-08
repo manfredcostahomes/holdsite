@@ -70,7 +70,7 @@ kdate: 2019-01-05 15:07:31.492576
 kitchen: open
 kref: testprop
 lastedited: 2019-01-07 14:00:53.721199
-layout: en-prop
+layout: enprops
 leasehold: false
 living: 72
 location: Villamartin
