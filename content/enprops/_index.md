@@ -1,5 +1,6 @@
 ---
 title: en props index
+slug: /en
 ---
 
 ## EN Spanish Props
