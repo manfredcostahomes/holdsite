@@ -69,8 +69,8 @@ images:
 kdate: 2019-01-05 15:07:31.492576
 kitchen: open
 kref: testprop
-lastedited: 2019-01-07 12:47:49.345541
-layout: de-prop
+lastedited: 2019-01-07 14:00:53.721199
+layout: en-prop
 leasehold: false
 living: 72
 location: Villamartin
@@ -88,11 +88,11 @@ ptype: Apartment
 ref: testprop
 rental: false
 salestage: 0
-shas: '{"de": "nosha", "en": "nosha"}'
-slug: de/2-Wohnung-zu-verkaufen-Villamartin/
+shas: '{"en": "nosha", "de": "nosha"}'
+slug: en/2-Apartment-for-sale-Villamartin/
 solarium: false
 topsix: false
 town: Orihuela Costa
-type: de-prop
+type: en-prop
 utility: true
 ---
