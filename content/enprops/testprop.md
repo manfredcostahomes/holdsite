@@ -69,8 +69,7 @@ images:
 kdate: 2019-01-05 15:07:31.492576
 kitchen: open
 kref: testprop
-lastedited: 2019-01-07 14:00:53.721199
-layout: enprops
+lastedited: 2019-01-08 13:11:32.863012
 leasehold: false
 living: 72
 location: Villamartin
@@ -93,6 +92,6 @@ slug: en/2-Apartment-for-sale-Villamartin/
 solarium: false
 topsix: false
 town: Orihuela Costa
-type: en-prop
+type: enprop
 utility: true
 ---

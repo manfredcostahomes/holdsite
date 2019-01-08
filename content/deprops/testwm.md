@@ -70,8 +70,7 @@ images:
 kdate: 2019-01-05 09:14:38.330937
 kitchen: open
 kref: testwm
-lastedited: 2019-01-07 14:00:41.662327
-layout: de-prop
+lastedited: 2019-01-08 13:11:19.995120
 leasehold: false
 living: 90
 location: Playa Flamenca
@@ -94,6 +93,6 @@ slug: de/1-Wohnung-zu-verkaufen-Playa-Flamenca/
 solarium: false
 topsix: false
 town: Orihuela Costa
-type: de-prop
+type: deprop
 utility: true
 ---
