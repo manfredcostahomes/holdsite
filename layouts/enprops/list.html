@@ -1,7 +1,7 @@
     <ul>
     {{ range .Pages }}
         <li>
-            {{.ptype}} {{.location}} {{.town}}<br/>
+            <a href="{{.Permalink}}">{{.Params.ptype}} {{.Params.location}} {{.Params.town}}</a><br/>
         </li>
     {{ end }}
     </ul>
